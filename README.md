@@ -1,10 +1,10 @@
 # Make Change Project
 
-## Description
+##Description
 
 ## Technologies Used
- - Java
- - Eclipse
+ -Java
+ -Eclipse
  - Git/GitHub
  - Sublime Text Editor
  - zsh
